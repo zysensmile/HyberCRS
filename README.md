@@ -1,10 +1,6 @@
-# MHCPL
+# HyperCRS
 
-The implementation of _Multi-view Hypergraph Contrastive Policy Learning for  Conversational Recommendation_ (SIGIR 2023). 
-
-More descriptions are available via the [paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591737).
-
-The code is partially referred to [MCMIPL](https://github.com/ZYM6-6/MCMIPL).
+The code is partially referred to [MHCPL](https://github.com/Snnzhao/MHCPL).
 ## Environment Settings
 python: 3.8.0
 
