@@ -14,16 +14,3 @@ dgl: 0.8.1
 ## Evaluation
 `python evaluate.py --data_name <data_name> --load_rl_epoch <checkpoint_epoch>`
 
-## Citation
-If the code is used in your research, please star this repo and cite our paper as follows:
-```
-@inproceedings{zhao2023multi,
-  title={Multi-view Hypergraph Contrastive Policy Learning for Conversational Recommendation},
-  author={Zhao, Sen and Wei, Wei and Mao, Xian-Ling and Zhu, Shuai and Yang, Minghui and Wen, Zujie and Chen, Dangyang and Zhu, Feida},
-  booktitle={Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval},
-  pages={654--664},
-  year={2023}
-}
-
-
-```
